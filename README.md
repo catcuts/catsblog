@@ -28,6 +28,7 @@ cats blog
   - [Reading News: Top S. Korean animal rights group slammed for destroying dogs](https://github.com/catcuts/catsblog/issues/30)
   - [Reading News: Theresa May loses big over her Brexit deal](https://github.com/catcuts/catsblog/issues/31)
   - [Reading News: Tech industry expo opens portal to tomorrow](https://github.com/catcuts/catsblog/issues/32)  
+  - [Reading News: China’s about to rediscover Peppa Pig](https://github.com/catcuts/catsblog/issues/34)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
