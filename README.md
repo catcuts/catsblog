@@ -31,6 +31,7 @@ cats blog
   - [Reading News: China’s about to rediscover Peppa Pig](https://github.com/catcuts/catsblog/issues/34)
   - [Reading News: Saudi thirst for water is creating a toxic brine problem](https://github.com/catcuts/catsblog/issues/35)
   - [Reading News: The maturing of the smartphone industry should be celebrated, not lamented](https://github.com/catcuts/catsblog/issues/36)
+  - [Reading news: Described as defeated, Islamic State punches back with guerrilla tactics](https://github.com/catcuts/catsblog/issues/38)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
