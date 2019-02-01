@@ -34,6 +34,7 @@ cats blog
   - [Reading news: Described as defeated, Islamic State punches back with guerrilla tactics](https://github.com/catcuts/catsblog/issues/38)
   - [Reading News: China's Baidu pledges to improve search service after complaint](https://github.com/catcuts/catsblog/issues/39)
   - [Reading News: #10YearChallenge: harmless trend or boon to facial recognition technology?](https://github.com/catcuts/catsblog/issues/40)
+  - [Reading News: China's coffee upstart is pouring millions into overtaking Starbucks](https://github.com/catcuts/catsblog/issues/41)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
