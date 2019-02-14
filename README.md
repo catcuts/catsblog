@@ -35,6 +35,7 @@ cats blog
   - [Reading News: China's Baidu pledges to improve search service after complaint](https://github.com/catcuts/catsblog/issues/39)
   - [Reading News: #10YearChallenge: harmless trend or boon to facial recognition technology?](https://github.com/catcuts/catsblog/issues/40)
   - [Reading News: China's coffee upstart is pouring millions into overtaking Starbucks](https://github.com/catcuts/catsblog/issues/41)
+  - [Reading News: Like a son but cheaper—harried South Koreans pamper pets instead of having kids](https://github.com/catcuts/catsblog/issues/42)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
