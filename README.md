@@ -38,6 +38,7 @@ cats blog
   - [Reading News: Like a son but cheaper—harried South Koreans pamper pets instead of having kids](https://github.com/catcuts/catsblog/issues/42)
   - [Reading News: China’s film industry finally joins the space race](https://github.com/catcuts/catsblog/issues/48)
   - [Reading News: PM Abe vows to tackle growing child abuse in Japan](https://github.com/catcuts/catsblog/issues/49)
+  - [Reading News: Dyson to move company HQ to Singapore](https://github.com/catcuts/catsblog/issues/51)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
