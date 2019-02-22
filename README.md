@@ -42,6 +42,7 @@ cats blog
   - [Reading News: Bloody brilliant: new emoji to symbolize menstruation welcomed](https://github.com/catcuts/catsblog/issues/53)
   - [Reading News: Plummeting insect numbers 'threaten collapse of nature'](https://github.com/catcuts/catsblog/issues/54)
   - [Reading News: Karl Lagerfeld, designer who defined luxury fashion, dies at 85](https://github.com/catcuts/catsblog/issues/55)
+  - [Reading News: Duke University apologizes over professor’s email asking Chinese students to speak English](https://github.com/catcuts/catsblog/issues/56)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
