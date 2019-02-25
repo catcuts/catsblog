@@ -45,6 +45,7 @@ cats blog
   - [Reading News: Karl Lagerfeld, designer who defined luxury fashion, dies at 85](https://github.com/catcuts/catsblog/issues/55)
   - [Reading News: Duke University apologizes over professor’s email asking Chinese students to speak English](https://github.com/catcuts/catsblog/issues/56)
   - [Reading News: Turn down the volume: WHO takes aim at harmful smartphone use](https://github.com/catcuts/catsblog/issues/57)
+  - [Reading News: Trump declares a national emergency, and provokes a constitutional clash](https://github.com/catcuts/catsblog/issues/59)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
