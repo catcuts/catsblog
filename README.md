@@ -12,7 +12,8 @@ cats blog
   - [Linux find 按文件最后访问/状态修改/内容修改时间查找文件](https://github.com/catcuts/catsblog/issues/21)
 
 - 读书
-  - [速记：《1943：物种大交换开创的世界史》](https://github.com/catcuts/catsblog/issues/27)
+  - [【读书】《情绪勒索》](https://github.com/catcuts/catsblog/issues/58)
+  - [【读书】《1943：物种大交换开创的世界史》](https://github.com/catcuts/catsblog/issues/27)
 
 - 认知
   - [速记：有关历史的认知](https://github.com/catcuts/catsblog/issues/33)
