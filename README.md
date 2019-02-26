@@ -46,6 +46,7 @@ cats blog
   - [Reading News: Duke University apologizes over professor’s email asking Chinese students to speak English](https://github.com/catcuts/catsblog/issues/56)
   - [Reading News: Turn down the volume: WHO takes aim at harmful smartphone use](https://github.com/catcuts/catsblog/issues/57)
   - [Reading News: Trump declares a national emergency, and provokes a constitutional clash](https://github.com/catcuts/catsblog/issues/59)
+  - [Reading News: Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young](https://github.com/catcuts/catsblog/issues/60)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
