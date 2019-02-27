@@ -47,6 +47,7 @@ cats blog
   - [Reading News: Turn down the volume: WHO takes aim at harmful smartphone use](https://github.com/catcuts/catsblog/issues/57)
   - [Reading News: Trump declares a national emergency, and provokes a constitutional clash](https://github.com/catcuts/catsblog/issues/59)
   - [Reading News: Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young](https://github.com/catcuts/catsblog/issues/60)
+  - [Reading News: How sky-high rents forced people into imaginative alternatives](https://github.com/catcuts/catsblog/issues/61)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
