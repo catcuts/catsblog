@@ -48,6 +48,8 @@ cats blog
   - [Reading News: Trump declares a national emergency, and provokes a constitutional clash](https://github.com/catcuts/catsblog/issues/59)
   - [Reading News: Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young](https://github.com/catcuts/catsblog/issues/60)
   - [Reading News: How sky-high rents forced people into imaginative alternatives](https://github.com/catcuts/catsblog/issues/61)
+  - [Reading News: Chinese firm behind the "Amazon Coat" hits jackpot in U.S.](https://github.com/catcuts/catsblog/issues/62)
+  - [Reading News: The Google and Apple app that helps Saudi men limit female relatives’ travel ](https://github.com/catcuts/catsblog/issues/63)
   - [Reading News: Your friends' social media posts are making you spend more money, researchers say](https://github.com/catcuts/catsblog/issues/64)
 
 - 行为金融学
