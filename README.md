@@ -53,6 +53,7 @@ cats blog
   - [Reading News: Your friends' social media posts are making you spend more money, researchers say](https://github.com/catcuts/catsblog/issues/64)
   - [Reading News: Chinese Taiwan unveils Asia's first draft law on same-sex marriage](https://github.com/catcuts/catsblog/issues/65)
   - [Reading News: Why do India and Pakistan keep fighting over Kashmir?](https://github.com/catcuts/catsblog/issues/66)
+  - [Reading News: Vaccine could virtually eliminate cervical cancer: study](https://github.com/catcuts/catsblog/issues/67)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
