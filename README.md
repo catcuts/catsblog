@@ -54,6 +54,7 @@ cats blog
   - [Reading News: Chinese Taiwan unveils Asia's first draft law on same-sex marriage](https://github.com/catcuts/catsblog/issues/65)
   - [Reading News: Why do India and Pakistan keep fighting over Kashmir?](https://github.com/catcuts/catsblog/issues/66)
   - [Reading News: Vaccine could virtually eliminate cervical cancer: study](https://github.com/catcuts/catsblog/issues/67)
+  - [Reading News: Going TikTok—Indians get hooked on Chinese video app ahead of election](https://github.com/catcuts/catsblog/issues/68)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
