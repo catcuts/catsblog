@@ -56,6 +56,7 @@ cats blog
   - [Reading News: Vaccine could virtually eliminate cervical cancer: study](https://github.com/catcuts/catsblog/issues/67)
   - [Reading News: Going TikTok—Indians get hooked on Chinese video app ahead of election](https://github.com/catcuts/catsblog/issues/68)
   - [Reading News: London HIV patient's remission spurs hope for curing AIDS](https://github.com/catcuts/catsblog/issues/69)
+  - [Reading News: Singapore set to raise retirement ages as seniors stay healthier](https://github.com/catcuts/catsblog/issues/70)
 
 - 行为金融学
   - [行为金融学概述：概念与框架](https://github.com/catcuts/catsblog/issues/2)
